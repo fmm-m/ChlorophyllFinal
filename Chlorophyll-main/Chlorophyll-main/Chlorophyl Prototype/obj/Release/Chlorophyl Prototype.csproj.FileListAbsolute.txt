@@ -1,0 +1,13 @@
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\bin\Release\Chlorophyl Prototype.exe.config
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\bin\Release\Chlorophyl Prototype.exe
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\bin\Release\Chlorophyl Prototype.pdb
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.csproj.AssemblyReference.cache
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.csproj.SuggestedBindingRedirects.cache
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl_Prototype.Form1.resources
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl_Prototype.Form2.resources
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl_Prototype.Form3.resources
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl_Prototype.Properties.Resources.resources
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.csproj.GenerateResource.cache
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.csproj.CoreCompileInputs.cache
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.exe
+H:\Programming\Chlorophyl Prototype\Chlorophyl Prototype\obj\Release\Chlorophyl Prototype.pdb
